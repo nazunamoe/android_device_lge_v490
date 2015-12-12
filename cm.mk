@@ -11,6 +11,6 @@ PRODUCT_NAME := cm_v490
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE="v490" \
-    PRODUCT_NAME="e8lte" \
-    BUILD_FINGERPRINT="lge/e9lte_global_com/e8lte:5.0.2/LRX22G/1523808437809:user" \
+    PRODUCT_NAME="e8lte_kr" \
+    BUILD_FINGERPRINT="lge/e8lte_global_com/e8lte:5.0.2/LRX22G/1523808437809:user" \
     PRIVATE_BUILD_DESC="e8lte_global_com-user 5.0.2 LRX22G 1523808437809 release-keys"
